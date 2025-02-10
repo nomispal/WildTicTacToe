@@ -1,0 +1,42 @@
+{
+  "Board": [
+    [
+      "O",
+      "\u0000",
+      "\u0000"
+    ],
+    [
+      "\u0000",
+      "X",
+      "\u0000"
+    ],
+    [
+      "\u0000",
+      "\u0000",
+      "\u0000"
+    ]
+  ],
+  "CurrentPlayerIndex": 0,
+  "History": [
+    {
+      "Position": {
+        "X": 0,
+        "Y": 0
+      },
+      "Timestamp": "2025-02-10T16:25:29.5428341+05:00",
+      "PlayerSymbol": "\u0000"
+    },
+    {
+      "Position": {
+        "X": 1,
+        "Y": 1
+      },
+      "Timestamp": "2025-02-10T16:25:27.5718194+05:00",
+      "PlayerSymbol": "\u0000"
+    }
+  ],
+  "Player1Type": 0,
+  "Player2Type": 0,
+  "Player1Symbol": "X",
+  "Player2Symbol": "O"
+}

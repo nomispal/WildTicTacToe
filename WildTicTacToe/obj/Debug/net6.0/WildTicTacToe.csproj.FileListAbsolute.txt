@@ -1,0 +1,14 @@
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\obj\Debug\net6.0\WildTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\obj\Debug\net6.0\WildTicTacToe.AssemblyInfoInputs.cache
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\obj\Debug\net6.0\WildTicTacToe.AssemblyInfo.cs
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\obj\Debug\net6.0\WildTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\bin\Debug\net6.0\WildTicTacToe.exe
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\bin\Debug\net6.0\WildTicTacToe.deps.json
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\bin\Debug\net6.0\WildTicTacToe.runtimeconfig.json
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\bin\Debug\net6.0\WildTicTacToe.dll
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\bin\Debug\net6.0\WildTicTacToe.pdb
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\obj\Debug\net6.0\WildTicTacToe.dll
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\obj\Debug\net6.0\refint\WildTicTacToe.dll
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\obj\Debug\net6.0\WildTicTacToe.pdb
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\obj\Debug\net6.0\WildTicTacToe.genruntimeconfig.cache
+C:\Users\IT LAND\source\repos\WildTicTacToe\WildTicTacToe\obj\Debug\net6.0\ref\WildTicTacToe.dll
